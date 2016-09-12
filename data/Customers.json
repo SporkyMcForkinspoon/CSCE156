@@ -1,0 +1,78 @@
+{
+  "customerIdNumber": "C001",
+  "customerType": "G",
+  "personIdNumber": "231",
+  "name": "Clark Consultants",
+  "address": {
+    "street": "259 Concorde Suites",
+    "city": "Lincoln",
+    "state": "NE",
+    "postalCode": "68588-0115",
+    "country": "USA"
+  }
+}
+{
+  "customerIdNumber": "C002",
+  "customerType": "S",
+  "personIdNumber": "944c",
+  "name": "CAS International Fellows",
+  "address": {
+    "street": "1223 Oldfather Hall",
+    "city": "Lincoln",
+    "state": "NE",
+    "postalCode": "68503",
+    "country": "USA"
+  }
+}
+{
+  "customerIdNumber": "C003",
+  "customerType": "S",
+  "personIdNumber": "306a",
+  "name": "Valueless Club",
+  "address": {
+    "street": "123 Venture Way",
+    "city": "Culver City",
+    "state": "CA",
+    "postalCode": "90230",
+    "country": "USA"
+  }
+}
+{
+  "customerIdNumber": "C004",
+  "customerType": "G",
+  "personIdNumber": "321f",
+  "name": "Stony Brook",
+  "address": {
+    "street": "9800 Savage Rd",
+    "city": "Fort Meade",
+    "state": "MD",
+    "postalCode": "20755",
+    "country": "USA"
+  }
+}
+{
+  "customerIdNumber": "C005",
+  "customerType": "G",
+  "personIdNumber": "bbchar",
+  "name": "Hewlett Industries",
+  "address": {
+    "street": "1060 West Addison",
+    "city": "Chicago",
+    "state": "IL",
+    "postalCode": "60601",
+    "country": "USA"
+  }
+}
+{
+  "customerIdNumber": "C006",
+  "customerType": "S",
+  "personIdNumber": "321dr",
+  "name": "Gregory Smith",
+  "address": {
+    "street": "456 West 7th St.",
+    "city": "Omaha",
+    "state": "NE",
+    "postalCode": "68500",
+    "country": "USA"
+  }
+}
